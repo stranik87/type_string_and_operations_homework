@@ -5,4 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return str(len("typeStrg"))
+    a = "12345678"
+    return len(a)
