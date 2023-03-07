@@ -6,4 +6,11 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    
+    
+    return main()
+
+a = "coder"
+b = "*"
+print(a)
+print(len(a)*b)
