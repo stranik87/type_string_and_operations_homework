@@ -6,10 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    a = "coder"
-    b = "*"
-    print(a)
-    print(len(a)*b)
+    x = "*"
     
-    return main()
+    return x * 5
 
