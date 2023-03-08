@@ -5,7 +5,7 @@ def main():
     Returns:
         str: return answer.
     """
-    answer = "jhyuiolk"
-    return len(answer)
+    
+    return "12345678"
     
 
