@@ -6,4 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    return str(len(obj))
+    x = ""
+    return len(x)
+
+
+
